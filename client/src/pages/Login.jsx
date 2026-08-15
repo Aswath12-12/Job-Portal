@@ -116,13 +116,7 @@ const Login = () => {
               <UserCheck size={14} color="#6366f1" /> Job Seeker Demo
             </button>
 
-            <button
-              onClick={() => fillDemoAccount('admin@jobportal.com', 'admin123')}
-              className="btn btn-secondary btn-sm"
-              type="button"
-            >
-              <ShieldCheck size={14} color="#3d2b2bff" /> Admin Demo
-            </button>
+            
           </div>
         </div>
 
