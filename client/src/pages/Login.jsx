@@ -121,7 +121,7 @@ const Login = () => {
               className="btn btn-secondary btn-sm"
               type="button"
             >
-              <ShieldCheck size={14} color="#ef4444" /> Admin Demo
+              <ShieldCheck size={14} color="#3d2b2bff" /> Admin Demo
             </button>
           </div>
         </div>
